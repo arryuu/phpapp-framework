@@ -1,0 +1,20 @@
+{
+    "name": "arryuu/phpapp-framework",
+    "type": "library",
+    "require": {
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arryuu",
+            "email": "604125002@qq.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "app.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
